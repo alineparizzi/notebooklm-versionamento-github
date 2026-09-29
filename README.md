@@ -15,7 +15,7 @@ Utilizei 46 fontes no NotebookLM para ampliar o contexto do caderno. Para esta e
 4. **GitHub - googleapis/release-please: generate release PRs based on the conventionalcommits.org spec** - https://github.com/googleapis/release-please
 5. **Release Please: automation of your GitHub releases | Padok - Theodo** - https://www.theodo.com/blog/automate-your-github-releases-with-release-please
 
-### 2.2.
+### 2.2. Fontes Complementares
 1. **Adding Tags, Versioning, and Releases in Github | Git & Source Control #13** - [Vídeo no YouTube]
 2. **Automating Elixir Releases with Release Please | Blog** - https://elixirschool.com/blog/managing-releases-with-release-please
 3. **Backport merged pull requests to selected branches · Actions · GitHub Marketplace** - https://github.com/marketplace/actions/backport-merged-pull-requests-to-selected-branches
